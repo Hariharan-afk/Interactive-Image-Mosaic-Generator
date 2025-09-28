@@ -1,0 +1,4 @@
+venv/
+__pycache__/
+mosaic_generator_venv/
+*.pyc

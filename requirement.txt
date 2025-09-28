@@ -1,0 +1,5 @@
+gradio==5.47.1
+numpy>=1.24
+pillow>=9.5
+scikit-image>=0.22
+scipy>=1.10
