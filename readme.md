@@ -3,10 +3,10 @@
 A Python implementation for creating high-quality image mosaics using advanced tile-matching algorithms. This project combines computer vision techniques with efficient caching to generate visually appealing mosaics that reconstruct input images using collections of smaller tile images.
 
 <!-- Screenshots -->
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;">
-  <img src="assets/rdj.jpg" alt="Alt 1" style="width:100%;height:300px;object-fit:contain;background:#111;">
-  <img src="assets/rdj_mosaic.webp" alt="Alt 2" style="width:100%;height:300px;object-fit:contain;background:#111;">
-</div>
+<p align="center">
+  <img src="assets/rdj.jpg" alt="Original" height="300">
+  <img src="assets/rdj_mosaic.webp" alt="Mosaic" height="300">
+</p>
 
 > Click the link to try it!!!  
 > [Hugging Face Space](https://huggingface.co/spaces/llSTRIKERll/Interactive_Image_Mosaic_Generator)
