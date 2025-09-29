@@ -1,4 +1,6 @@
 venv/
 __pycache__/
 mosaic_generator_venv/
+mosaic_benchmark_tile16.ipynb/
+report.pdf/
 *.pyc
